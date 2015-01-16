@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295 295" height="295mm"
+     width="295mm">
+   <g>
+      <g>
+         <rect style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);" height="295"
+               width="295"
+               rx="10"
+               y="0"
+               x="0"/>
+         <g transform="translate(8.5, 7) rotate(180)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 7) rotate(180)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(8.5, 285) rotate(0)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 285) rotate(0)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 279) rotate(180)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 236.714285714285714286) rotate(0)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 82.57142857142857143) rotate(180)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 40.285714285714285716) rotate(0)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(10,8.5) rotate(90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(285,8.5) rotate(-90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(10,283.5) rotate(90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(285,283.5) rotate(-90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(29.642857142857142857, 68.928571428571428571)">
+            <g style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+               transform="rotate(45)">
+               <path d="M -9, -9.6607142857142857141 v 19.3214285714285714283 a 9,9 0 0 0 18,0 v -19.3214285714285714283 a 9,9 0 0 0 -18,0 Z"/>
+            </g>
+         </g>
+         <g transform="translate(265.357142857142857141, 68.928571428571428571)">
+            <g style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+               transform="rotate(45)">
+               <path d="M -9, -9.6607142857142857141 v 19.3214285714285714283 a 9,9 0 0 0 18,0 v -19.3214285714285714283 a 9,9 0 0 0 -18,0 Z"/>
+            </g>
+         </g>
+         <g transform="translate(29.642857142857142857, 242.714285714285714284)">
+            <g style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);" transform="rotate(0)">
+               <path d="M -9, -19.642857142857142857 v 39.285714285714285714 a 9,9 0 0 0 18,0 v -39.285714285714285714 a 9,9 0 0 0 -18,0 Z"/>
+            </g>
+         </g>
+         <g transform="translate(265.357142857142857141, 242.714285714285714284)">
+            <g style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);" transform="rotate(0)">
+               <path d="M -9, -19.642857142857142857 v 39.285714285714285714 a 9,9 0 0 0 18,0 v -39.285714285714285714 a 9,9 0 0 0 -18,0 Z"/>
+            </g>
+         </g>
+         <g transform="translate(147.5,19.821428571428571428)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+                  d="M 0 0 L -9.8214285714285714285 19.642857142857142857 L 9.8214285714285714285 19.642857142857142857 Z"/>
+         </g>
+         <circle style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);" r="1.5"
+                 cy="29.642857142857142857"
+                 cx="73.75"/>
+         <circle style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);" r="1.5"
+                 cy="29.642857142857142857"
+                 cx="221.25"/>
+      </g>
+   </g>
+</svg>

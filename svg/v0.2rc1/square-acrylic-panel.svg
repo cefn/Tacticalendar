@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295 295" height="295mm"
+     width="295mm">
+   <g>
+      <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);" d="M10 10 L285 10"/>
+      <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+            d="M285 49.285714285714285714 L10 49.285714285714285714"/>
+      <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+            d="M285 88.571428571428571428 L10 88.571428571428571428"/>
+      <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+            d="M285 127.857142857142857142 L10 127.857142857142857142"/>
+      <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+            d="M285 167.142857142857142856 L10 167.142857142857142856"/>
+      <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+            d="M285 206.42857142857142857 L10 206.42857142857142857"/>
+      <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+            d="M285 245.714285714285714284 L10 245.714285714285714284"/>
+      <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+            d="M285 284.999999999999999998 L10 284.999999999999999998"/>
+      <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+            d="M10 10 L10 284.999999999999999998"/>
+      <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+            d="M285 10 L285 284.999999999999999998"/>
+   </g>
+</svg>

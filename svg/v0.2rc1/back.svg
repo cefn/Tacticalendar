@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295 295" height="295mm"
+     width="295mm">
+   <g>
+      <g>
+         <rect style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);" height="295"
+               width="295"
+               rx="10"
+               y="0"
+               x="0"/>
+         <g transform="translate(8.5, 7) rotate(180)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 7) rotate(180)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(8.5, 288) rotate(0)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 288) rotate(0)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 49.285714285714285714) rotate(0)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 88.571428571428571428) rotate(180)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 245.714285714285714284) rotate(0)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(286.5, 284.999999999999999998) rotate(180)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(10,8.5) rotate(90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(285,8.5) rotate(-90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(10,286.5) rotate(90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(285,286.5) rotate(-90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(0,0,255);"
+                  d="M -1.5 -3 v 3 h 3 v -3"/>
+         </g>
+         <g transform="translate(0, 68.928571428571428571) rotate(-90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+                  d="M -10 0 v 30 a 10,10 90 0 0 20,0 v -30"/>
+         </g>
+         <g transform="translate(0, 265.357142857142857141) rotate(-90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+                  d="M -10 0 v 30 a 10,10 90 0 0 20,0 v -30"/>
+         </g>
+         <g transform="translate(295, 68.928571428571428571) rotate(90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+                  d="M -10 0 v 30 a 10,10 90 0 0 20,0 v -30"/>
+         </g>
+         <g transform="translate(295, 265.357142857142857141) rotate(90)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+                  d="M -10 0 v 30 a 10,10 90 0 0 20,0 v -30"/>
+         </g>
+         <g transform="translate(147.5, 295) rotate(180)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+                  d="M -10 0 v 30 a 10,10 90 0 0 20,0 v -30"/>
+         </g>
+         <g transform="translate(147.5,17)">
+            <path style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);"
+                  d="M 0 0 L -14.642857142857142857 29.285714285714285714 L 14.642857142857142857 29.285714285714285714 Z"/>
+         </g>
+         <circle style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);" r="1.5" cy="11.5"
+                 cx="73.75"/>
+         <circle style="fill:none;stroke-width:0.025;stroke:rgb(255,0,0);" r="1.5" cy="11.5"
+                 cx="221.25"/>
+      </g>
+   </g>
+</svg>
