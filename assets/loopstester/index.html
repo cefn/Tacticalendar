@@ -1,0 +1,83 @@
+<html>
+	<head>
+	<script language="Javascript" type="text/javascript" src="jquery-1.4.2.js"></script>
+	<script language="Javascript" type="text/javascript" >
+		var numloops = 6;
+		var loopstart = [];
+		
+		$(function(){
+			var loopidx;		
+			var dayidx;
+			for(loopidx = 0; loopidx < numloops; loopidx++){
+				var start = -8 + (7 * loopidx);
+				loopstart[loopidx] = start;
+				var loop = $("<div class='loop'></div>");
+				$("#loopbox").append(loop);
+				for(dayidx = start; dayidx < start + 14; dayidx++){
+					var daytext;
+					if(dayidx > 0 && dayidx < 32){
+						daytext = dayidx;					
+					}
+					else{
+						daytext = "/";			
+					}
+					var day = $("<div class='day'>" + daytext + "</div>");
+					loop.append(day);
+				}
+			}
+			
+			setFirstSunday(7);
+			
+			$(document).keydown(function(evt){
+				if(evt.keyCode == 37){
+					//left arrow
+					setFirstSunday(firstsunday - 1);
+				}
+				if(evt.keyCode == 39){
+					//left arrow
+					setFirstSunday(firstsunday + 1);
+				}
+			});
+		});
+		
+		function setFirstSunday(newday){
+			firstsunday = newday;
+			updateColors();
+		}		
+		
+		function updateColors(){
+			var firstday = firstsunday - 6;
+			$("#loopbox .loop .day").css("background-color","yellow");
+			for(loopidx = 0; loopidx < numloops; loopidx++){
+				if(firstsunday >= loopstart[loopidx] + 14){
+					continue;				
+				}
+				for(dayidx = firstday; dayidx < (firstday + 7) && dayidx < (loopstart[loopidx] + 14); dayidx++){
+					var loop = $("#loopbox .loop").eq(loopidx);
+					loop.find(".day").eq(dayidx - loopstart[loopidx]).css("background-color","red");									
+				}
+				firstday = dayidx;
+			}		
+		}
+
+	</script>
+	<style type="text/css" >
+		.loop {
+			clear:both;		
+		}
+		.day {
+			border-style:solid;
+			width:40px;
+			height:40px;
+			display:table-cell;
+			text-align:center;
+			padding:10px;		
+		}
+	</style>
+	</head>
+	<body>
+		<h1>Testing the calendar loops</h1>
+		<div id="loopbox">
+		</div>
+	</body>
+</html>
